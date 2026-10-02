@@ -12,7 +12,7 @@ namespace R34Downloader.Services
     {
         #region Fields
 
-        private const string ApiUrl = "https://rule34.xxx/index.php?page=dapi&s=post&q=index";
+        private const string ApiUrl = "https://api.rule34.xxx//index.php?page=dapi&s=post&q=index";
 
         private const byte PageSize = 100;
 
